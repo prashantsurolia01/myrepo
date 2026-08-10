@@ -1,0 +1,9 @@
+github account
+empty repo
+local system 
+    git config --global user.name "LoveBabbar"
+    git config --global user.email "Lovebabbar3@gmail.com
+
+git push -u origin master
+    username
+    password -> github se tokes is the password
